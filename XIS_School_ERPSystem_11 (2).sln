@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XIS_School_ERPSystem", "XIS_School_ERPSystem\XIS_School_ERPSystem.csproj", "{F0E8532C-55B3-4725-BA7E-C8109FB738A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XIS_BusinessLogic", "XIS_BusinessLogic\XIS_BusinessLogic.csproj", "{3525D78B-692A-4C95-8251-64CF5B82713B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XIS_Utilities", "XIS_Utilities\XIS_Utilities.csproj", "{0133B38F-838A-4AB5-ABDF-5F1D8C4DA68C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0E8532C-55B3-4725-BA7E-C8109FB738A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E8532C-55B3-4725-BA7E-C8109FB738A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E8532C-55B3-4725-BA7E-C8109FB738A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E8532C-55B3-4725-BA7E-C8109FB738A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3525D78B-692A-4C95-8251-64CF5B82713B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3525D78B-692A-4C95-8251-64CF5B82713B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3525D78B-692A-4C95-8251-64CF5B82713B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3525D78B-692A-4C95-8251-64CF5B82713B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0133B38F-838A-4AB5-ABDF-5F1D8C4DA68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0133B38F-838A-4AB5-ABDF-5F1D8C4DA68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0133B38F-838A-4AB5-ABDF-5F1D8C4DA68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0133B38F-838A-4AB5-ABDF-5F1D8C4DA68C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
